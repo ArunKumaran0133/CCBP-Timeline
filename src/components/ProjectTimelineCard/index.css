@@ -1,0 +1,41 @@
+.project-image {
+  height: 200px;
+  width: 100%;
+}
+
+.project-heading {
+  font-family: 'Roboto';
+  font-size: 20px;
+  font-weight: bold;
+  color: #171f46;
+}
+
+.project-icon {
+  font-size: 13px;
+  color: #1e293b;
+  margin-right: 2px;
+  margin-bottom: 1px;
+}
+
+.project-duration-text {
+  font-family: 'Roboto';
+  font-size: 13px;
+  color: #1e293b;
+}
+
+.icon-duration-container-project {
+  display: flex;
+  align-items: center;
+}
+
+.heading-icon-container-project {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.project-container {
+  width: 100%;
+  padding-left: 20px;
+  padding-right: 20px;
+}
